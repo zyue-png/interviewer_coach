@@ -1,0 +1,7 @@
+name: interview-coach
+display_name: "Interview Coach"
+description: "输入简历和岗位 JD，模拟专业面试官生成定制面试问题、追问与准备事项。"
+default_question_count: 10
+question_count_range: [8, 12]
+default_persona: "senior_big_tech_interviewer"
+supports_formats: [pdf, docx, txt, md]

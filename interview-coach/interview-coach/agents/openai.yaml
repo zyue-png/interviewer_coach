@@ -1,0 +1,6 @@
+interface:
+  display_name: "Interview Coach"
+  short_description: "基于简历和 JD 生成定制面试题与准备清单"
+  default_prompt: "使用 $interview-coach，根据我的简历和岗位 JD 生成约 10 道定制化面试题与面试准备清单。"
+policy:
+  allow_implicit_invocation: true
